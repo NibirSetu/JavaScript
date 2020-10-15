@@ -1,2 +1,2 @@
 # JavaScript
-Some of JS project
+JS project
